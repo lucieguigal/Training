@@ -1,1 +1,3 @@
 # Training
+Learning Python and Data Analysis using Python.  
+More to come ...
